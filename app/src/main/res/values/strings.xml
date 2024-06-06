@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sklep</string>
+    <string-array name="computer_options">
+        <item>Computer A</item>
+        <item>Computer B</item>
+        <item>Computer C</item>
+    </string-array>
+    <string-array name="keyboard_options">
+        <item>Keyboard A</item>
+        <item>Keyboard B</item>
+        <item>Keyboard C</item>
+    </string-array>
+    <string-array name="mouse_options">
+        <item>Mouse A</item>
+        <item>Mouse B</item>
+        <item>Mouse C</item>
+    </string-array>
+    <string-array name="other_options">
+        <item>Camera</item>
+        <item>Monitor</item>
+    </string-array>
+</resources>
